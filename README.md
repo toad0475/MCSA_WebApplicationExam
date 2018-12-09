@@ -1,1 +1,1 @@
-## This repo is for the coding practice for the MCSA exam.
+## This repo is for coding practice for the MCSA exam.
