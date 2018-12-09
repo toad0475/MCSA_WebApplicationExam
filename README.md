@@ -1,1 +1,1 @@
-## This is the code for the exam of MCSA
+## This is the coding practice for the MCSA exam.
