@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <audio src="./Audio/Bell.wav" id="bell">
+    </audio>
+    <section style="margin-left: 120px;margin-top:45px;">
+      <hgroup>
+        <h1>Markup</h1>
+        <h2>Demo</h2>
+      </hgroup>
+      <p>Favorites:</p>
+      <form onsubmit="bell.play(); return false;">
+          <input id="favUrl" type="url" required="required" placeholder="http://www.palermo4.com">
+          <input type="submit" value="Save...">
+      </form>
+    </section>
+
+  </body>
+</html>
